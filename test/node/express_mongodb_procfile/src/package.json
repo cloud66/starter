@@ -21,7 +21,7 @@
   "author": "emgram769",
   "license": "AGPL-3.0",
   "dependencies": {
-    "bcrypt": "0.8.7",
+    "bcrypt": "5.0.0",
     "captcha": "0.0.4",
     "canvas": "1.2.11",
     "express": "3.4.8",
